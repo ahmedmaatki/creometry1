@@ -3,24 +3,24 @@ kind: Config
 clusters:
 - name: "quickstart-gcp-custom"
   cluster:
-    server: "https://rancher.34.150.254.64.sslip.io/k8s/clusters/c-flfsh"
-    certificate-authority-data: "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUJwekNDQ\
+    server: "https://rancher.34.85.144.225.sslip.io/k8s/clusters/c-dc7md"
+    certificate-authority-data: "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUJwakNDQ\
       VUyZ0F3SUJBZ0lCQURBS0JnZ3Foa2pPUFFRREFqQTdNUnd3R2dZRFZRUUtFeE5rZVc1aGJXbGoKY\
       kdsemRHVnVaWEl0YjNKbk1Sc3dHUVlEVlFRREV4SmtlVzVoYldsamJHbHpkR1Z1WlhJdFkyRXdIa\
-      GNOTWpJdwpOakUxTVRJd09UUXhXaGNOTXpJd05qRXlNVEl3T1RReFdqQTdNUnd3R2dZRFZRUUtFe\
+      GNOTWpJdwpOakUxTVRRMU1USTFXaGNOTXpJd05qRXlNVFExTVRJMVdqQTdNUnd3R2dZRFZRUUtFe\
       E5rZVc1aGJXbGpiR2x6CmRHVnVaWEl0YjNKbk1Sc3dHUVlEVlFRREV4SmtlVzVoYldsamJHbHpkR\
-      1Z1WlhJdFkyRXdXVEFUQmdjcWhrak8KUFFJQkJnZ3Foa2pPUFFNQkJ3TkNBQVQrY0RNUXhmUXVEV\
-      EhBNzl3TVBwWm5ITytoT1g0RHBvcjQ4MndCM2FVSQp5TzFYTFZsdEFWMklRU3VwdWgzTktCalgzS\
-      ys4Ym9xbnJrTXM0QWRKVERRMG8wSXdRREFPQmdOVkhROEJBZjhFCkJBTUNBcVF3RHdZRFZSMFRBU\
-      UgvQkFVd0F3RUIvekFkQmdOVkhRNEVGZ1FVcC9jOERPd2c1NHQwWDlvVGxzR1IKSjhrWWF4NHdDZ\
-      1lJS29aSXpqMEVBd0lEU0FBd1JRSWdhWDRvMGdMeE5oRUNOZVFtUWJkYUJpNVZta05kMXlrSgo4Z\
-      ms3MHphTWJ4a0NJUURRMlJjM0Vvb0hPcWx4bnovY0o2dkV3L2dnWjdwdUFTR09IM0d0UDVTTFZ3P\
-      T0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQ=="
+      1Z1WlhJdFkyRXdXVEFUQmdjcWhrak8KUFFJQkJnZ3Foa2pPUFFNQkJ3TkNBQVRHZEx6WGFaVGJzQ\
+      jRRUHA4VDhBWExTekdNRjZIdXE1Qk4rZkZhQ0IrTApPd0plSXVjcnlWODBSQ1JXNGM4VUsyY0taN\
+      UhqS0k0R2VtZnNLeS9BY1pwQm8wSXdRREFPQmdOVkhROEJBZjhFCkJBTUNBcVF3RHdZRFZSMFRBU\
+      UgvQkFVd0F3RUIvekFkQmdOVkhRNEVGZ1FVc3B5OTU3NUUweHZiamhkWE5maHUKdElyRUVkQXdDZ\
+      1lJS29aSXpqMEVBd0lEUndBd1JBSWdibjd0QlFwc04xdWpCS2dOd0l2SlZxMDU3Y2RKWG9pTwpKM\
+      Uthd3hVRXRIc0NJR01zcHhERmYwZzhvQlNFT1h5YnhvVzFZaVo1dDNPNVhNQmliTmZBVlpGbAotL\
+      S0tLUVORCBDRVJUSUZJQ0FURS0tLS0t"
 
 users:
 - name: "quickstart-gcp-custom"
   user:
-    token: "kubeconfig-user-pssx45kd9w:4qtg4rwg5gmctdtdkp7jpgbpdrjzphz9kkrr8m6wrfp9b5nzg7dzrw"
+    token: "kubeconfig-user-5hhdgscj86:cmtps76k4j2p77nbb95v586z2mqh9m7tg795tzlnwxb5sdwb6n7r4z"
 
 
 contexts:
