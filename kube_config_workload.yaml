@@ -1,0 +1,32 @@
+apiVersion: v1
+kind: Config
+clusters:
+- name: "quickstart-gcp-custom"
+  cluster:
+    server: "https://rancher.34.150.254.64.sslip.io/k8s/clusters/c-flfsh"
+    certificate-authority-data: "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUJwekNDQ\
+      VUyZ0F3SUJBZ0lCQURBS0JnZ3Foa2pPUFFRREFqQTdNUnd3R2dZRFZRUUtFeE5rZVc1aGJXbGoKY\
+      kdsemRHVnVaWEl0YjNKbk1Sc3dHUVlEVlFRREV4SmtlVzVoYldsamJHbHpkR1Z1WlhJdFkyRXdIa\
+      GNOTWpJdwpOakUxTVRJd09UUXhXaGNOTXpJd05qRXlNVEl3T1RReFdqQTdNUnd3R2dZRFZRUUtFe\
+      E5rZVc1aGJXbGpiR2x6CmRHVnVaWEl0YjNKbk1Sc3dHUVlEVlFRREV4SmtlVzVoYldsamJHbHpkR\
+      1Z1WlhJdFkyRXdXVEFUQmdjcWhrak8KUFFJQkJnZ3Foa2pPUFFNQkJ3TkNBQVQrY0RNUXhmUXVEV\
+      EhBNzl3TVBwWm5ITytoT1g0RHBvcjQ4MndCM2FVSQp5TzFYTFZsdEFWMklRU3VwdWgzTktCalgzS\
+      ys4Ym9xbnJrTXM0QWRKVERRMG8wSXdRREFPQmdOVkhROEJBZjhFCkJBTUNBcVF3RHdZRFZSMFRBU\
+      UgvQkFVd0F3RUIvekFkQmdOVkhRNEVGZ1FVcC9jOERPd2c1NHQwWDlvVGxzR1IKSjhrWWF4NHdDZ\
+      1lJS29aSXpqMEVBd0lEU0FBd1JRSWdhWDRvMGdMeE5oRUNOZVFtUWJkYUJpNVZta05kMXlrSgo4Z\
+      ms3MHphTWJ4a0NJUURRMlJjM0Vvb0hPcWx4bnovY0o2dkV3L2dnWjdwdUFTR09IM0d0UDVTTFZ3P\
+      T0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQ=="
+
+users:
+- name: "quickstart-gcp-custom"
+  user:
+    token: "kubeconfig-user-pssx45kd9w:4qtg4rwg5gmctdtdkp7jpgbpdrjzphz9kkrr8m6wrfp9b5nzg7dzrw"
+
+
+contexts:
+- name: "quickstart-gcp-custom"
+  context:
+    user: "quickstart-gcp-custom"
+    cluster: "quickstart-gcp-custom"
+
+current-context: "quickstart-gcp-custom"
