@@ -2,7 +2,7 @@
 
 variable "gcp_account_json" {
   type        = string
-  description = "File path and name of service account access token file."
+  description = "./sa-private-key.json"
 }
 
 variable "gcp_project" {
