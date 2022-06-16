@@ -1,0 +1,25 @@
+{
+
+  "type": "service_account",
+
+  "project_id": "concise-kayak-352018",
+
+  "private_key_id": "069a835b7213ddb21b76bb39486785ed62c5a54a",
+
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtTdeblH2C4Qo7\nRtCWmDKxNOFQOMzNkDMUEeHUvdidKoiNYqcxwAM+cxORMyc3/FJQueY5zTKHWpYZ\nbi/cRTrsVoVKHSYzlNQPiP3XjIM2J/yknUVCuZ03/4f8W0Z3BUEbWQA3oen1Ncru\n96ZeHLnSzVhIglFxjBIpzYECuGN0H1JmS2yiBRLaBNcfFOpsXt5P9Xm1oME/y5S3\nEcRb8ab3RnU9X1436pe6XOViGOD0cD/vQ18jBcWoM2vjcLCTpGXzaa1XiabwCpe2\nW8UvLTjwqZ3XYg9qvbljl67LZWccAYX422Y8rqY6C9pXQjZqsqz+WjRz9cP8yFxF\nrJ+r3/VtAgMBAAECggEAEk7sbau4vLhgd9Wp2Jb4l/7xpKNzg23t73taI7rwpN3m\n8iTPa/KQhSrsEMVaKdB2s7+H4mhao7D+tW4OEVOg/3G+gA9nR0C8TG3Y/0oBXJnJ\n12wj8oIgaVeN+qt73LwJ3kU/QCFTUYvexfMUuNGJEguOfY6C4x98lbz3mZ14KD6w\nWTEuUH/HPxkfrkTL1NeExv8suqgjNMHCDM/YtOASlsvzctpJjjwk9FSzp8aaBF8U\nTpNj3A0+uKzZDPHhTy6ZErCC71CtEDFdu/vLccxQIsl6vHvi1bLMMwptRC+q/7yx\nXoUSM07GHRPuGd4ejGsddu4BqQCU7Yg3Ekn9E0cSswKBgQDTTNMrCm/SpsEQHICQ\n4iwV2CVe/xzkXS0LzKlephV/67rN8sG5E/TbhIMvhmlv4ooN6IDNKDUa0KqaAh0o\nBqzi/cIaT2IMqtzJWML9bMxDDk34PAqQJG+z55TU8FoQafzesPoFbDgFjMsLZXyo\nPQqzdv3FlLnK5iIZWU7WtAKaFwKBgQDR902kRetNXjwv5SXYP/UC1VNlZCg0oc1y\nBnUiew7+w93zsK2RAahgGvHpT3bzZCEShHzt4nHCdCkCB6wngZA2BXobvJwPvw2H\neHoX4b4yWp3Zx9ZZL8zepcnvL7PBWtKj3wUgF9h3wBcvkaVMHsR3+74ZwQjpkrJw\n5vc4T2YTGwKBgAXC84MZ7sCksWD6FftdX2xdD2/Orv//Fmpa80dUagOp7tcMxoGA\nbM3LiDQ0iw109OS6MUDm1sPbart2UUs1G2O5HaDQB1FnG0wWMoLsg4lUi4W4RWV2\nyODz8Jf50creyPldhAO/1qs4EpVF+CcyOud32CWaD5LbwZRFXiP2lpeTAoGAF6nB\nbFQc8rk+Gz++BiMfH9Se83xYM6ZQmxszNFGeHQRCDWbKCN+g9EPVI7A6/a85MvcP\nhVfR7lJdFMd8lW86q3vuiRW2mOe1RKFFUU+1ucMQqyykcaS7eBRDL9u2bIIp3yIR\nV86YLNbPRiMp9+w3xDXw9MIWmQxZY/QDxKreHCUCgYBrOFtMIZEjGLm4JC2nYBGi\n4Ny8ie3tWWyvvOY3kgaDvv82Lmmz3HpR6iBxICJ/S5pYhDow61sdjYw2xCWchvsr\nnjvGJuFppWE+OLIsbCHW+e5p23bQ+cbUc2K6/vMwAMhNWAKQxJhFbyqXu6EH34ym\n9KHb3I/G+bOJMQ8oUZmzwQ==\n-----END PRIVATE KEY-----\n",
+
+  "client_email": "rancher-provisioner@concise-kayak-352018.iam.gserviceaccount.com",
+
+  "client_id": "101192811468143038132",
+
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+
+  "token_uri": "https://oauth2.googleapis.com/token",
+
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rancher-provisioner%40concise-kayak-352018.iam.gserviceaccount.com"
+
+}
+
+
