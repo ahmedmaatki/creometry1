@@ -36,6 +36,12 @@ jobs:
            curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
            sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
            sudo apt-get update && sudo apt-get install terraform
+      - name: destroy tf
+        run: 
+           terraform destroy --auto-approve
+      - name : terraform example
+        with:
+              gcp_account_json: ${{secret.REQUIS}} 
            
       - name: init and apply
         run: | 
