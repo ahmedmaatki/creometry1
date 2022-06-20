@@ -32,9 +32,13 @@ jobs:
         with:
          credentials_json: '${{ secrets.REQUIS }}'
 
+      - name: Destry terraform
+        run: |
+           terraform init
+           terraform destroy --auto-approve
+ 
 
       - name: Run terraform
         run: |
            terraform init
-           terraform destroy --auto-approve
            terraform apply --auto-approve
